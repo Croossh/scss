@@ -1,5 +1,5 @@
 import React from "react";
-// import "./styles/scss/App.scss";
+import "./styles/scss/App.scss";
 
 function App() {
   return <div className="App">ㅎㅇ</div>;
